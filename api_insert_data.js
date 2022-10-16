@@ -22,7 +22,7 @@ app.post('/post_cs_noti_tfu', function (req, res) {
          var config = {
              user: 'xxx',
              password: 'xxx',
-             server: 'xxx',
+             server: '203.154.39.197',
              database: 'Bot_DB',
              trustServerCertificate: true
         };
